@@ -1,7 +1,7 @@
 export function shout(s) {
-  return s.toUpperCase() + "!"
+  return s.toUpperCase() + "!";
 }
 
 export function reverse(s) {
-  return s.split("").reverse().join("")
+  return s.split("").reverse().join("");
 }
