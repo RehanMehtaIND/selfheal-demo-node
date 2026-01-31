@@ -1,0 +1,11 @@
+{
+  "name": "selfheal-demo-node",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
